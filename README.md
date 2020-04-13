@@ -3,7 +3,7 @@
 Prerequisites:
 - at this time, you will need a gmail account to make this work
 - your gmail account needs to permit access from less secure apps, because the python backend does not use security to the level google would like. This program does not store your email password anywhere
-    - go to (Less Secure Apps)[https://myaccount.google.com/lesssecureapps] to update this
+    - go to [Less Secure Apps](https://myaccount.google.com/lesssecureapps) to update this
 
 To play:
 Download the files in this repo and place them in a folder. In `emails.txt`, add a list of all the players names and emails as follows:
